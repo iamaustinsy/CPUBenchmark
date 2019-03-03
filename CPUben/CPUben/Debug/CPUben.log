@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\iamau\source\repos\cpuben\cpuben\main.cpp(116): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\iamau\source\repos\cpuben\cpuben\main.cpp(127): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\iamau\source\repos\cpuben\cpuben\main.cpp(204): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPUben.vcxproj -> C:\Users\iamau\source\repos\CPUben\Debug\CPUben.exe
